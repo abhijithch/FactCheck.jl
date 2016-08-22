@@ -137,7 +137,7 @@ facts("Testing 'context'") do
                                         expected_str.data : expected_str)
             end
         else
-            warn("STDOUT is empty.")
+            warn("STDOUT is empty..")
         end
     end
 end
